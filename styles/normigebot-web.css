@@ -2,6 +2,7 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
+	background-color: #ccc;
 }
 div.mainpage {
 	text-align: center;
@@ -11,4 +12,10 @@ div.mainpage {
 
 img.rounded-image {
 	border-radius: 180px;
+}
+ul.command-list {
+	text-align: left;
+}
+code {
+	color: #d9186b;
 }
